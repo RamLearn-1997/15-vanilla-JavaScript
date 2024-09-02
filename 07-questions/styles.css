@@ -194,7 +194,7 @@ Questions
   max-width: var(--fixed-width);
 }
 .question {
-  background: var(--clr-white);
+  background-color: var(--clr-white);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
   padding: 1.5rem 1.5rem 0 1.5rem;
@@ -224,14 +224,14 @@ Questions
   transform: rotate(90deg);
 }
 .question-text {
-  padding: 1rem 0 1.5rem 0;
+  padding: 1.5rem  2rem ;
   border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 .question-text p {
   margin-bottom: 0;
 }
 /* hide text */
-/* .question-text {
+.question-text {
   display: none;
 }
 .show-text .question-text {
@@ -245,4 +245,4 @@ Questions
 }
 .show-text .plus-icon {
   display: none;
-} */
+} 
