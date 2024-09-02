@@ -7,8 +7,9 @@ Content of Project
 - 3 .  [Reviews](/03-reviews/ReadMe.md)
 - 4 .  [Navbar](/04-navbar/ReadMe.md)
 - 5 .  [Sidebar](/05-sidebar/ReadMe.md)
+- 6 .  [Modal](/06-modal/ReadMe.md)
 
 
 
 
-Timestamp : 1:39:09
+Timestamp : 1:48:09
