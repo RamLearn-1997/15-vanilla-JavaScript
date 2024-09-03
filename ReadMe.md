@@ -9,8 +9,9 @@ Content of Project
 - 5 .  [Sidebar](/05-sidebar/ReadMe.md)
 - 6 .  [Modal](/06-modal/ReadMe.md)
 - 7 .  [FAQ](/07-questions/ReadMe.md)
+- 8 .  [Menu](/08-menu/ReadMe.md)
 
 
 
 
-Timestamp : 2:16:38
+Timestamp : 3:16:20
