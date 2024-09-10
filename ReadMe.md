@@ -14,6 +14,7 @@ Content of Project
 - 10 .  [Scroll](/10-scroll/ReadMe.md)
 - 11 .  [Tabs](/11-tabs/ReadMe.md)
 - 12 .  [Countdown Timer](/12-countdown-timer/ReadMe.md)
+- 13 .  [LoremIpsum](/13-lorem-ipsum/ReadMe.md)
 
 
-Timestamp : 5:56:38
+Timestamp : 6:18:08
