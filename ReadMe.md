@@ -16,6 +16,7 @@ Content of Project
 - 12 .  [Countdown Timer](/12-countdown-timer/ReadMe.md)
 - 13 .  [LoremIpsum](/13-lorem-ipsum/ReadMe.md)
 - 14 .  [To-do list](/14-grocery-bud/ReadMe.md)
+- 15 .  [Slider](/15-slider/ReadMe.md)
 
 
-Timestamp : 8:01:15
+Build 15 JavaScript Projects - Vanilla JavaScript Course by **John smilga**.
